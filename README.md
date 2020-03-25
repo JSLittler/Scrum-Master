@@ -1,7 +1,7 @@
 # Scrum Master
 
 Mini-project to refresh knowledge following a period of time on paternity leave and other projects.
-It randomly selected a member of the dev team to fulfill the role of Scrum-Master.
+It randomly selects a member of the dev team to fulfill the role of Scrum-Master.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
