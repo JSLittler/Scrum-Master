@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: aqua;
+  font-size: 20px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid aqua;
+  text-align: center;
+
+  button {
+    background-color: black;
+    border: 3px solid;
+    border-color: aqua;
+    color: aqua;
+    font-size: 16px;
+    padding: 5px;
+    margin: 3px;
+    border-radius: 10px;
+  }
+
+  input {
+    font-size: 21px;
+    color: red;
+    border: 3px solid red;
+    background-color: black;
+    margin: 16px;
+  }
+
+  img {
+    background-color: aqua;
+    width: 150px;
+    height: 120px;
+  }
+}
+
+.popup {
+  color: red !important;
+  border: 3px solid red !important;
+  margin: 20px;
+  padding: 10px;
+}
+
+.aqua {
+  color: aqua;
+  text-align: justify;
+  text-indent: 100px;
+  padding-left: 50px;
+}
+
+.red {
+  color: red;
+  border-color: red;
+}
