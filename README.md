@@ -4,6 +4,9 @@ Mini-project to refresh knowledge following a period of time on paternity leave 
 It randomly selects a member of the dev team to fulfill the role of Scrum-Master.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app has been deployed to an AWS S3 bucket, and can be found here:
+http://johnbucketone.s3-website.eu-west-2.amazonaws.com
+
 ## Available Scripts
 
 In the project directory, you can run:
